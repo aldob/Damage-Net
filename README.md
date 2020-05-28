@@ -1,6 +1,6 @@
 # Damage-Net
 
-This is the first public release of Damage-Net we are keen to receive any feedback!
+As Damage-Net v1.0 is the first public release we are keen to receive any feedback!
 
 All installers are available at https://sourceforge.net/p/damage-net/ under files.
 
