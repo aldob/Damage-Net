@@ -9,6 +9,8 @@ All installers and futher information are available at www.damage-net.co.uk
 The Damage-Net website also provides extra information as well as provides a forum for discussion where users can raise issues, suggest new features and engage in general discussion.
 
 
+
+
 ## Using the Damage-Net source code
 
 The python code will run assuming you have all the dependencies installed, however you much have the database and image directories in the same directory as the script. 
