@@ -13,4 +13,4 @@ The Damage-Net website also provides extra information as well as provides a for
 
 ## Using the Damage-Net source code
 
-The python code will run assuming you have all the dependencies installed, however you much have the database and image directories in the same directory as the script. 
+The python code will run as an executable assuming you have all the dependencies installed, however you must have the database and image directories in the same directory as the script. 
