@@ -1,7 +1,9 @@
 # Damage-Net
 
-As Damage-Net v1.0 is the first public release we are keen to receive any feedback!
+As Damage-Net v1.0.0 is the first public release we are keen to receive any feedback!
 
-All installers are available at https://sourceforge.net/p/damage-net/ under files.
+This page is just a repo for the source code and to track updates.
 
-The sourceforge repo also provides extra information on Damage-Net as well as provides a forum for discussion where users can raise issues, suggest new features and engage in general discussion.
+All installers and futher information are available at www.damage-net.co.uk 
+
+The Damage-Net website also provides extra information as well as provides a forum for discussion where users can raise issues, suggest new features and engage in general discussion.
